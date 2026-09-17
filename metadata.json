@@ -1,0 +1,6 @@
+{
+  "name": "TWI Навигатор",
+  "description": "Интерактивная цифровая платформа на базе методологии TWI со встроенным ИИ для Job Instruction, Job Methods и Матрицы компетенций.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
